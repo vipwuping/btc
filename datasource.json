@@ -100,6 +100,30 @@
         "name": "PAXOS国际汇款",
         "description": "PAXOS国际汇款",
         "sort": 12
+	  },
+	  {
+        "id": 13,
+        "url": "https://www.coindesk.com/",
+        "target": "_blank",
+        "name": "coindesk",
+        "description": "coindesk数据",
+        "sort": 13
+      },
+      {
+        "id": 14,
+        "url": "https://github.com/eclipse",
+        "target": "_blank",
+        "name": "Eclipss",
+        "description": "预留",
+        "sort": 14
+      },
+      {
+        "id": 15,
+        "url": "https://github.com/facebook",
+        "target": "_blank",
+        "name": "facebook",
+        "description": "预留",
+        "sort": 15
       }
     ]
   },
