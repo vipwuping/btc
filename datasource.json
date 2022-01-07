@@ -65,64 +65,64 @@
         "id": 8,
         "url": "https://www.qkl123.com/data/marketvalue-increase/btc",
         "target": "_blank",
-        "name": "江卓尔60日累计市值涨幅",
-        "description": "江卓尔60日累计市值涨幅",
+        "name": "江卓尔60日BTC累计市值涨幅",
+        "description": "江卓尔60日BTC累计市值涨幅",
         "sort": 8
       },
-	  {
+	        {
         "id": 9,
-        "url": "https://ahr999.com/",
+        "url": "https://www.qkl123.com/data/acc_increase/btc",
         "target": "_blank",
-        "name": "囤币指数",
-        "description": "囤币指数",
+        "name": "江卓尔60日累计BTC涨幅",
+        "description": "江卓尔60日累计BTC涨幅",
         "sort": 9
       },
 	  {
         "id": 10,
-        "url": "https://www.qkl123.com/data/ma730/btc",
+        "url": "https://ahr999.com/",
         "target": "_blank",
-        "name": "均线乘数顶底指标",
-        "description": "均线乘数顶底指标",
+        "name": "囤币指数",
+        "description": "囤币指数",
         "sort": 10
       },
 	  {
         "id": 11,
+        "url": "https://www.qkl123.com/data/ma730/btc",
+        "target": "_blank",
+        "name": "均线乘数顶底指标",
+        "description": "均线乘数顶底指标",
+        "sort": 11
+      },
+	  {
+        "id": 12,
         "url": "https://debank.com/",
         "target": "_blank",
         "name": "debank链上资产",
         "description": "debank链上资产",
-        "sort": 11
+        "sort": 12
       },
       {
-        "id": 12,
+        "id": 13,
         "url": "https://www.paxos.com/zh/",
         "target": "_blank",
         "name": "PAXOS国际汇款",
         "description": "PAXOS国际汇款",
-        "sort": 12
+        "sort": 13
 	  },
 	  {
-        "id": 13,
+        "id": 14,
         "url": "https://www.coindesk.com/",
         "target": "_blank",
         "name": "coindesk",
         "description": "coindesk数据",
-        "sort": 13
-      },
-      {
-        "id": 14,
-        "url": "https://github.com/eclipse",
-        "target": "_blank",
-        "name": "Eclipss",
-        "description": "预留",
         "sort": 14
       },
       {
         "id": 15,
-        "url": "https://github.com/facebook",
+        "url": "https://chainlist.org/",
         "target": "_blank",
-        "name": "facebook",
-        "description": "预留",
+        "name": "钱包网络连接节点",
+        "description": "钱包网络连接节点",
         "sort": 15
       }
     ]
