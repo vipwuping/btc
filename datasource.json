@@ -124,6 +124,30 @@
         "name": "钱包网络连接节点",
         "description": "钱包网络连接节点",
         "sort": 15
+      },
+      {
+        "id": 16,
+        "url": "https://www.coinglass.com/zh/position",
+        "target": "_blank",
+        "name": "大户多空持仓比",
+        "description": "大户多空持仓比",
+        "sort": 16
+	  },
+	  {
+        "id": 17,
+        "url": "https://defillama.com/chains",
+        "target": "_blank",
+        "name": "质押TVL 投资小于1",
+        "description": "质押TVL",
+        "sort": 17
+      },
+      {
+        "id": 18,
+        "url": "https://mycointool.com/ApprovalChecker",
+        "target": "_blank",
+        "name": "链上授权查询",
+        "description": "链上授权查询",
+        "sort": 18		
       }
     ]
   },
