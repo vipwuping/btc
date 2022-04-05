@@ -47,7 +47,7 @@
       },
       {
         "id": 6,
-        "url": "https://history.btc126.com/zhishu/",
+        "url": "https://www.abuquant.com/report/abu_context/output_futures_gb_week_ln/report/CMEBTC/pc.html",
         "target": "_blank",
         "name": "BTC量化分析",
         "description": "BTC量化分析",
@@ -111,18 +111,18 @@
 	  },
 	  {
         "id": 14,
-        "url": "https://www.coindesk.com/",
+        "url": "https://exmo.com/zh",
         "target": "_blank",
-        "name": "coindesk",
-        "description": "coindesk数据",
+        "name": "EXMO平台",
+        "description": "提现欧元",
         "sort": 14
       },
       {
         "id": 15,
-        "url": "https://chainlist.org/",
+        "url": "https://www.epay.com/?lang=zh-cn",
         "target": "_blank",
-        "name": "钱包网络连接节点",
-        "description": "钱包网络连接节点",
+        "name": "易派汇款",
+        "description": "易派汇款",
         "sort": 15
       },
       {
@@ -147,7 +147,31 @@
         "target": "_blank",
         "name": "链上授权查询",
         "description": "链上授权查询",
-        "sort": 18		
+        "sort": 18
+      },
+      {
+        "id": 19,
+        "url": "https://www.paxos.com/zh/",
+        "target": "_blank",
+        "name": "PAXOS国际汇款",
+        "description": "PAXOS国际汇款",
+        "sort": 19
+	  },
+	  {
+        "id": 20,
+        "url": "https://www.coindesk.com/",
+        "target": "_blank",
+        "name": "coindesk",
+        "description": "coindesk数据",
+        "sort": 20
+      },
+      {
+        "id": 21,
+        "url": "https://chainlist.org/",
+        "target": "_blank",
+        "name": "钱包网络连接节点",
+        "description": "钱包网络连接节点",
+        "sort": 21
       }
     ]
   },
