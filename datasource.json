@@ -103,10 +103,10 @@
       },
       {
         "id": 13,
-        "url": "https://www.paxos.com/zh/",
+        "url": "https://blockchainwhispers.com/bitmex-position-calculator",
         "target": "_blank",
-        "name": "PAXOS国际汇款",
-        "description": "PAXOS国际汇款",
+        "name": "合约多空持仓比",
+        "description": "合约多空持仓比",
         "sort": 13
 	  },
 	  {
