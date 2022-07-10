@@ -71,7 +71,7 @@
       },
 	        {
         "id": 9,
-        "url": "https://www.qkl123.com/data/acc_increase/btc",
+        "url": "https://www.fxhapp.com/data/jzrdata.html",
         "target": "_blank",
         "name": "江卓尔60日累计BTC涨幅",
         "description": "江卓尔60日累计BTC涨幅",
@@ -95,18 +95,18 @@
       },
 	  {
         "id": 12,
-        "url": "https://debank.com/",
+        "url": "https://defillama.com/chains",
         "target": "_blank",
-        "name": "debank链上资产",
-        "description": "debank链上资产",
+        "name": "质押TVL 投资小于1",
+        "description": "质押TVL",
         "sort": 12
       },
       {
         "id": 13,
-        "url": "https://blockchainwhispers.com/bitmex-position-calculator",
+        "url": "https://www.paxos.com/zh/",
         "target": "_blank",
-        "name": "合约多空持仓比",
-        "description": "合约多空持仓比",
+        "name": "PAXOS国际汇款",
+        "description": "PAXOS国际汇款",
         "sort": 13
 	  },
 	  {
@@ -135,34 +135,34 @@
 	  },
 	  {
         "id": 17,
-        "url": "https://defillama.com/chains",
+        "url": "https://blockchainwhispers.com/bitmex-position-calculator",
         "target": "_blank",
-        "name": "质押TVL 投资小于1",
-        "description": "质押TVL",
+        "name": "合约多空持仓比",
+        "description": "合约多空持仓比",
         "sort": 17
       },
       {
-        "id": 18,
-        "url": "https://mycointool.com/ApprovalChecker",
-        "target": "_blank",
-        "name": "链上授权查询",
-        "description": "链上授权查询",
-        "sort": 18
-      },
-      {
-        "id": 19,
-        "url": "https://www.paxos.com/zh/",
-        "target": "_blank",
-        "name": "PAXOS国际汇款",
-        "description": "PAXOS国际汇款",
-        "sort": 19
-	  },
-	  {
-        "id": 20,
+		"id": 18,
         "url": "https://www.coindesk.com/",
         "target": "_blank",
         "name": "coindesk",
         "description": "coindesk数据",
+        "sort": 18
+      },
+      {
+        "id": 19,
+        "url": "https://debank.com/",
+        "target": "_blank",
+        "name": "EVM 链资产追踪",
+        "description": "EVM 链资产追踪",
+        "sort": 19
+	  },
+	  {
+        "id": 20,
+        "url": "https://mycointool.com/ApprovalChecker",
+        "target": "_blank",
+        "name": "链上授权查询",
+        "description": "链上授权查询",
         "sort": 20
       },
       {
@@ -172,6 +172,30 @@
         "name": "钱包网络连接节点",
         "description": "钱包网络连接节点",
         "sort": 21
+	   },
+      {
+        "id": 22,
+        "url": "https://l2fees.info/",
+        "target": "_blank",
+        "name": "L2Fees交易费预估",
+        "description": "L2Fees交易费预估",
+        "sort": 19
+	  },
+	  {
+        "id": 23,
+        "url": "https://blockscan.com/",
+        "target": "_blank",
+        "name": "ETH聚合查询",
+        "description": "ETH聚合查询",
+        "sort": 23
+      },
+      {
+        "id": 24,
+        "url": "https://info.uniswap.org/#/",
+        "target": "_blank",
+        "name": "uniswap交易信息",
+        "description": "uniswap交易量价格TVL",
+        "sort": 24
       }
     ]
   },
