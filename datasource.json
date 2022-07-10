@@ -55,7 +55,7 @@
       },
       {
         "id": 7,
-        "url": "https://history.btc126.com/zhishu/",
+        "url": "https://www.coinglass.com/zh/pro/i/FearGreedIndex",
         "target": "_blank",
         "name": "BTC恐惧/贪婪指数",
         "description": "BTC恐惧/贪婪指数",
@@ -87,10 +87,10 @@
       },
 	  {
         "id": 11,
-        "url": "https://www.qkl123.com/data/ma730/btc",
+        "url": "https://www.coinglass.com/zh/pro/i/MA",
         "target": "_blank",
         "name": "均线乘数顶底指标",
-        "description": "均线乘数顶底指标",
+        "description": "两年MA均线乘数顶底指标",
         "sort": 11
       },
 	  {
