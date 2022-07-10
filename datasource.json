@@ -15,7 +15,7 @@
 		},
       {
         "id": 2,
-        "url": "https://www.qkl123.com/data/main_funds/btc",
+        "url": "https://m.qkl123.com/data/main_funds/btc",
         "target": "_blank",
         "name": "BTC主力散户资金",
         "description": "BTC主力散户资金",
@@ -63,10 +63,10 @@
       },
       {
         "id": 8,
-        "url": "https://www.qkl123.com/data/marketvalue-increase/btc",
+        "url": "https://m.qkl123.com/data/",
         "target": "_blank",
-        "name": "江卓尔60日BTC累计市值涨幅",
-        "description": "江卓尔60日BTC累计市值涨幅",
+        "name": "QKL123比特币数据",
+        "description": "QKL123比特币数据",
         "sort": 8
       },
 	        {
