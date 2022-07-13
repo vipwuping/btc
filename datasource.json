@@ -167,10 +167,10 @@
       },
       {
         "id": 21,
-        "url": "https://chainlist.org/",
+        "url": "https://blockscan.com/",
         "target": "_blank",
-        "name": "钱包网络连接节点",
-        "description": "钱包网络连接节点",
+        "name": "ETH聚合查询",
+        "description": "ETH聚合查询",
         "sort": 21
 	   },
       {
@@ -183,19 +183,43 @@
 	  },
 	  {
         "id": 23,
-        "url": "https://blockscan.com/",
+        "url": "https://tools.defieye.io/bridge/",
         "target": "_blank",
-        "name": "ETH聚合查询",
-        "description": "ETH聚合查询",
+        "name": "跨链桥手续费计算",
+        "description": "跨链桥手续费计算",
         "sort": 23
       },
-      {
+	  {
         "id": 24,
         "url": "https://info.uniswap.org/#/",
         "target": "_blank",
         "name": "uniswap交易信息",
         "description": "uniswap交易量价格TVL",
         "sort": 24
+	   },
+      {
+        "id": 25,
+        "url": "https://chainlist.org/",
+        "target": "_blank",
+        "name": "钱包网络连接节点",
+        "description": "钱包网络连接节点",
+        "sort": 25
+	  },
+	  {
+        "id": 26,
+        "url": "https://blockscan.com/",
+        "target": "_blank",
+        "name": "ETH聚合查询",
+        "description": "ETH聚合查询",
+        "sort": 26
+      },
+      {
+        "id": 27,
+        "url": "https://info.uniswap.org/#/",
+        "target": "_blank",
+        "name": "uniswap交易信息",
+        "description": "uniswap交易量价格TVL",
+        "sort": 27
       }
     ]
   },
