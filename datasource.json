@@ -207,10 +207,10 @@
 	  },
 	  {
         "id": 26,
-        "url": "https://blockscan.com/",
+        "url": "https://arbiscan.io/tokenapprovalchecker",
         "target": "_blank",
-        "name": "ETH聚合查询",
-        "description": "ETH聚合查询",
+        "name": "Arbitrum代币授权查询",
+        "description": "Arbitrum以太坊二层网络代币授权查询",
         "sort": 26
       },
       {
