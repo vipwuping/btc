@@ -15,10 +15,10 @@
 		},
       {
         "id": 2,
-        "url": "https://m.qkl123.com/data/main_funds/btc",
+        "url": "https://token.unlocks.app/?category=all",
         "target": "_blank",
-        "name": "BTC主力散户资金",
-        "description": "BTC主力散户资金",
+        "name": "token代币解锁信息",
+        "description": "token代币解锁信息",
         "sort": 2
       },
       {
@@ -63,10 +63,10 @@
       },
       {
         "id": 8,
-        "url": "https://m.qkl123.com/data/",
+        "url": "https://coinsguru.io/",
         "target": "_blank",
-        "name": "QKL123比特币数据",
-        "description": "QKL123比特币数据",
+        "name": "币圈推特关注查询",
+        "description": "币圈推特关注查询",
         "sort": 8
       },
 	        {
@@ -215,10 +215,10 @@
       },
       {
         "id": 27,
-        "url": "https://info.uniswap.org/#/",
+        "url": "https://defillama.com/",
         "target": "_blank",
-        "name": "uniswap交易信息",
-        "description": "uniswap交易量价格TVL",
+        "name": "defi链上数据包括交易所",
+        "description": "defi链上数据包括交易所",
         "sort": 27
       }
     ]
