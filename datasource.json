@@ -47,10 +47,10 @@
       },
       {
         "id": 6,
-        "url": "https://www.abuquant.com/report/abu_context/output_futures_gb_week_ln/report/CMEBTC/pc.html",
+        "url": "https://www.whalestats.com/",
         "target": "_blank",
-        "name": "BTC量化分析",
-        "description": "BTC量化分析",
+        "name": "鲸鱼地址变动",
+        "description": "鲸鱼恐惧和贪婪",
         "sort": 6
       },
       {
