@@ -7,10 +7,10 @@
     "items": [
       {
         "id": 1,
-        "url": "https://btctom.com/options/big/btc",
+        "url": "https://cointool.app/approve/",
         "target": "_blank",
-        "name": "期权大单监控",
-        "description": "期权大单监控",
+        "name": "链上授权查询",
+        "description": "链上授权查询",
         "sort": 1
 		},
       {
