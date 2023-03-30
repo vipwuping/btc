@@ -169,8 +169,8 @@
         "id": 21,
         "url": "https://blockscan.com/",
         "target": "_blank",
-        "name": "ETH聚合查询",
-        "description": "ETH聚合查询",
+        "name": "ETH聚合授权查询",
+        "description": "ETH聚合授权查询",
         "sort": 21
 	   },
       {
