@@ -220,30 +220,6 @@
         "name": "defi链上数据包括交易所",
         "description": "defi链上数据包括交易所",
         "sort": 27
-	  },
-      {
-        "id": 28,
-        "url": "https://sso.slowmist.com/",
-        "target": "_blank",
-        "name": "慢雾链上资产追踪",
-        "description": "慢雾链上资产追踪",
-        "sort": 28
-	  },
-	  {
-        "id": 29,
-        "url": "https://arbiscan.io/tokenapprovalchecker",
-        "target": "_blank",
-        "name": "演示",
-        "description": "演示",
-        "sort": 29
-      },
-      {
-        "id": 30,
-        "url": "https://defillama.com/",
-        "target": "_blank",
-        "name": "演示2",
-        "description": "演示2",
-        "sort": 30		
       }
     ]
   },
