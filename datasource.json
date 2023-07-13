@@ -196,7 +196,7 @@
         "name": "uniswap交易信息",
         "description": "uniswap交易量价格TVL",
         "sort": 24
-	  },
+	   },
       {
         "id": 25,
         "url": "https://chainlist.org/",
@@ -220,8 +220,8 @@
         "name": "defi链上数据包括交易所",
         "description": "defi链上数据包括交易所",
         "sort": 27
-	   },
-       {
+	  },
+      {
         "id": 28,
         "url": "https://sso.slowmist.com/",
         "target": "_blank",
@@ -233,16 +233,16 @@
         "id": 29,
         "url": "https://arbiscan.io/tokenapprovalchecker",
         "target": "_blank",
-        "name": "Arbitrum代币授权查询",
-        "description": "Arbitrum以太坊二层网络代币授权查询",
+        "name": "演示",
+        "description": "演示",
         "sort": 29
       },
       {
         "id": 30,
         "url": "https://defillama.com/",
         "target": "_blank",
-        "name": "defi链上数据包括交易所",
-        "description": "defi链上数据包括交易所",
+        "name": "演示2",
+        "description": "演示2",
         "sort": 30
       }
     ]
