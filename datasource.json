@@ -243,7 +243,7 @@
         "target": "_blank",
         "name": "演示2",
         "description": "演示2",
-        "sort": 30
+        "sort": 30		
       }
     ]
   },
@@ -2440,7 +2440,7 @@
       {
         "id": 2,
         "url": "http://rednaxelafx.iteye.com/",
-        "target": "_blank",
+        "target": "_blank"，
         "name": "R大（Java）"，
         "description": "R大（Java）"，
         "sort": 2
