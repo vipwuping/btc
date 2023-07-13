@@ -1,174 +1,174 @@
 [
   {
-    "id": 1,
-    "type": "BTC资源",
-    "sort": 1,
-    "description": "BTC资源",
+    "id": 1，
+    "type": "BTC资源"，
+    "sort": 1，
+    "description": "BTC资源"，
     "items": [
       {
-        "id": 1,
-        "url": "https://cointool.app/approve/",
-        "target": "_blank",
-        "name": "链上授权查询",
-        "description": "链上授权查询",
+        "id": 1，
+        "url": "https://cointool.app/approve/"，
+        "target": "_blank"，
+        "name": "链上授权查询"，
+        "description": "链上授权查询"，
         "sort": 1
-		},
+		}，
       {
-        "id": 2,
-        "url": "https://token.unlocks.app/?category=all",
-        "target": "_blank",
-        "name": "token代币解锁信息",
-        "description": "token代币解锁信息",
+        "id": 2，
+        "url": "https://token.unlocks.app/?category=all"，
+        "target": "_blank"，
+        "name": "token代币解锁信息"，
+        "description": "token代币解锁信息"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "https://www.hecoinfo.com/en-us/home",
-        "target": "_blank",
-        "name": "火币链查询",
-        "description": "Hceo链查询",
+        "id": 3，
+        "url": "https://www.hecoinfo.com/en-us/home"，
+        "target": "_blank"，
+        "name": "火币链查询"，
+        "description": "Hceo链查询"，
         "sort": 3
-      },
+      }，
       {
-        "id": 4,
-        "url": "https://www.blockchaincenter.net/altcoin-season-index/",
-        "target": "_blank",
-        "name": "山寨币指数",
-        "description": "山寨币指数",
+        "id": 4，
+        "url": "https://www.blockchaincenter.net/altcoin-season-index/"，
+        "target": "_blank"，
+        "name": "山寨币指数"，
+        "description": "山寨币指数"，
         "sort": 4
-      },
+      }，
       {
-        "id": 5,
-        "url": "https://www.blockchaincenter.net/bitcoin-rainbow-chart/",
-        "target": "_blank",
-        "name": "BTC彩虹图",
-        "description": "BTC彩虹图",
+        "id": 5，
+        "url": "https://www.blockchaincenter.net/bitcoin-rainbow-chart/"，
+        "target": "_blank"，
+        "name": "BTC彩虹图"，
+        "description": "BTC彩虹图"，
         "sort": 5
-      },
+      }，
       {
-        "id": 6,
-        "url": "https://www.whalestats.com/",
-        "target": "_blank",
-        "name": "鲸鱼地址变动",
-        "description": "鲸鱼恐惧和贪婪",
+        "id": 6，
+        "url": "https://www.whalestats.com/"，
+        "target": "_blank"，
+        "name": "鲸鱼地址变动"，
+        "description": "鲸鱼恐惧和贪婪"，
         "sort": 6
-      },
+      }，
       {
-        "id": 7,
-        "url": "https://www.coinglass.com/zh/pro/i/FearGreedIndex",
-        "target": "_blank",
-        "name": "BTC恐惧/贪婪指数",
-        "description": "BTC恐惧/贪婪指数",
+        "id": 7，
+        "url": "https://www.coinglass.com/zh/pro/i/FearGreedIndex"，
+        "target": "_blank"，
+        "name": "BTC恐惧/贪婪指数"，
+        "description": "BTC恐惧/贪婪指数"，
         "sort": 7
-      },
+      }，
       {
-        "id": 8,
-        "url": "https://coinsguru.io/",
-        "target": "_blank",
-        "name": "币圈推特关注查询",
-        "description": "币圈推特关注查询",
+        "id": 8，
+        "url": "https://coinsguru.io/"，
+        "target": "_blank"，
+        "name": "币圈推特关注查询"，
+        "description": "币圈推特关注查询"，
         "sort": 8
-      },
+      }，
 	        {
-        "id": 9,
-        "url": "https://www.fxhapp.com/data/jzrdata.html",
-        "target": "_blank",
-        "name": "江卓尔60日累计BTC涨幅",
-        "description": "江卓尔60日累计BTC涨幅",
+        "id": 9，
+        "url": "https://www.fxhapp.com/data/jzrdata.html"，
+        "target": "_blank"，
+        "name": "江卓尔60日累计BTC涨幅"，
+        "description": "江卓尔60日累计BTC涨幅"，
         "sort": 9
-      },
+      }，
 	  {
-        "id": 10,
-        "url": "https://ahr999.com/",
-        "target": "_blank",
-        "name": "囤币指数",
-        "description": "囤币指数",
+        "id": 10，
+        "url": "https://ahr999.com/"，
+        "target": "_blank"，
+        "name": "囤币指数"，
+        "description": "囤币指数"，
         "sort": 10
-      },
+      }，
 	  {
-        "id": 11,
-        "url": "https://www.coinglass.com/zh/pro/i/MA",
-        "target": "_blank",
-        "name": "均线乘数顶底指标",
-        "description": "两年MA均线乘数顶底指标",
+        "id": 11，
+        "url": "https://www.coinglass.com/zh/pro/i/MA"，
+        "target": "_blank"，
+        "name": "均线乘数顶底指标"，
+        "description": "两年MA均线乘数顶底指标"，
         "sort": 11
-      },
+      }，
 	  {
-        "id": 12,
-        "url": "https://defillama.com/chains",
-        "target": "_blank",
-        "name": "质押TVL 投资小于1",
-        "description": "质押TVL",
+        "id": 12，
+        "url": "https://defillama.com/chains"，
+        "target": "_blank"，
+        "name": "质押TVL 投资小于1"，
+        "description": "质押TVL"，
         "sort": 12
-      },
+      }，
       {
-        "id": 13,
-        "url": "https://www.paxos.com/zh/",
-        "target": "_blank",
-        "name": "PAXOS国际汇款",
-        "description": "PAXOS国际汇款",
+        "id": 13，
+        "url": "https://www.paxos.com/zh/"，
+        "target": "_blank"，
+        "name": "PAXOS国际汇款"，
+        "description": "PAXOS国际汇款"，
         "sort": 13
-	  },
+	  }，
 	  {
-        "id": 14,
-        "url": "https://exmo.com/zh",
-        "target": "_blank",
-        "name": "EXMO平台",
-        "description": "提现欧元",
+        "id": 14，
+        "url": "https://exmo.com/zh"，
+        "target": "_blank"，
+        "name": "EXMO平台"，
+        "description": "提现欧元"，
         "sort": 14
-      },
+      }，
       {
-        "id": 15,
-        "url": "https://www.epay.com/?lang=zh-cn",
-        "target": "_blank",
-        "name": "易派汇款",
-        "description": "易派汇款",
+        "id": 15，
+        "url": "https://www.epay.com/?lang=zh-cn"，
+        "target": "_blank"，
+        "name": "易派汇款"，
+        "description": "易派汇款"，
         "sort": 15
-      },
+      }，
       {
-        "id": 16,
-        "url": "https://www.coinglass.com/zh/position",
-        "target": "_blank",
-        "name": "大户多空持仓比",
-        "description": "大户多空持仓比",
+        "id": 16，
+        "url": "https://www.coinglass.com/zh/position"，
+        "target": "_blank"，
+        "name": "大户多空持仓比"，
+        "description": "大户多空持仓比"，
         "sort": 16
-	  },
+	  }，
 	  {
-        "id": 17,
-        "url": "https://blockchainwhispers.com/bitmex-position-calculator",
-        "target": "_blank",
+        "id": 17，
+        "url": "https://blockchainwhispers.com/bitmex-position-calculator"，
+        "target": "_blank"，
         "name": "合约多空持仓比",
-        "description": "合约多空持仓比",
+        "description": "合约多空持仓比"，
         "sort": 17
-      },
+      }，
       {
-		"id": 18,
-        "url": "https://www.coindesk.com/",
-        "target": "_blank",
-        "name": "coindesk",
-        "description": "coindesk数据",
+		"id": 18，
+        "url": "https://www.coindesk.com/"，
+        "target": "_blank"，
+        "name": "coindesk"，
+        "description": "coindesk数据"，
         "sort": 18
-      },
+      }，
       {
-        "id": 19,
-        "url": "https://debank.com/",
-        "target": "_blank",
-        "name": "EVM 链资产追踪",
-        "description": "EVM 链资产追踪",
+        "id": 19，
+        "url": "https://debank.com/"，
+        "target": "_blank"，
+        "name": "EVM 链资产追踪"，
+        "description": "EVM 链资产追踪"，
         "sort": 19
-	  },
+	  }，
 	  {
-        "id": 20,
-        "url": "https://mycointool.com/ApprovalChecker",
-        "target": "_blank",
-        "name": "链上授权查询",
-        "description": "链上授权查询",
+        "id": 20，
+        "url": "https://mycointool.com/ApprovalChecker"，
+        "target": "_blank"，
+        "name": "链上授权查询"，
+        "description": "链上授权查询"，
         "sort": 20
-      },
+      }，
       {
-        "id": 21,
-        "url": "https://revoke.cash/zh",
-        "target": "_blank",
+        "id": 21，
+        "url": "https://revoke.cash/zh"，
+        "target": "_blank"，
         "name": "ETH聚合授权查询",
         "description": "ETH聚合授权查询",
         "sort": 21
@@ -232,79 +232,79 @@
 	  {
         "id": 29,
         "url": "https://arbiscan.io/tokenapprovalchecker",
-        "target": "_blank",
-        "name": "演示",
-        "description": "演示",
+        "target": "_blank"，
+        "name": "演示"，
+        "description": "演示"，
         "sort": 29
-      },
+      }，
       {
-        "id": 30,
-        "url": "https://defillama.com/",
-        "target": "_blank",
-        "name": "演示2",
-        "description": "演示2",
+        "id": 30，
+        "url": "https://defillama.com/"，
+        "target": "_blank"，
+        "name": "演示2"，
+        "description": "演示2"，
         "sort": 30		
       }
     ]
-  },
+  }，
   {
-    "id": 2,
-    "type": "GitHub组织",
-    "sort": 2,
-    "description": "GitHub组织",
+    "id": 2，
+    "type": "GitHub组织"，
+    "sort": 2，
+    "description": "GitHub组织"，
     "items": [
       {
-        "id": 1,
-        "url": "https://github.com/apache",
-        "target": "_blank",
-        "name": "apache",
-        "description": "apache",
+        "id": 1，
+        "url": "https://github.com/apache"，
+        "target": "_blank"，
+        "name": "apache"，
+        "description": "apache"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "https://github.com/eclipse",
-        "target": "_blank",
-        "name": "Eclipse",
-        "description": "Eclipse",
+        "id": 2，
+        "url": "https://github.com/eclipse"，
+        "target": "_blank"，
+        "name": "Eclipse"，
+        "description": "Eclipse"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "https://github.com/facebook",
-        "target": "_blank",
-        "name": "facebook",
-        "description": "facebook",
+        "id": 3，
+        "url": "https://github.com/facebook"，
+        "target": "_blank"，
+        "name": "facebook"，
+        "description": "facebook"，
         "sort": 3
-      },
+      }，
       {
-        "id": 4,
-        "url": "https://github.com/Homebrew",
-        "target": "_blank",
-        "name": "iOS包管理软件团队的GitHub",
-        "description": "iOS包管理软件团队的GitHub",
+        "id": 4，
+        "url": "https://github.com/Homebrew"，
+        "target": "_blank"，
+        "name": "iOS包管理软件团队的GitHub"，
+        "description": "iOS包管理软件团队的GitHub"，
         "sort": 4
-      },
+      }，
       {
-        "id": 5,
-        "url": "https://github.com/javaee/",
-        "target": "_blank",
-        "name": "JavaEE",
-        "description": "JavaEE",
+        "id": 5，
+        "url": "https://github.com/javaee/"，
+        "target": "_blank"，
+        "name": "JavaEE"，
+        "description": "JavaEE"，
         "sort": 5
-      },
+      }，
       {
-        "id": 6,
-        "url": "https://github.com/opserver",
-        "target": "_blank",
-        "name": "opserver的GitHub",
-        "description": "opserver的GitHub",
+        "id": 6，
+        "url": "https://github.com/opserver"，
+        "target": "_blank"，
+        "name": "opserver的GitHub"，
+        "description": "opserver的GitHub"，
         "sort": 6
-      },
+      }，
       {
-        "id": 7,
-        "url": "https://github.com/oracle",
-        "target": "_blank",
+        "id": 7，
+        "url": "https://github.com/oracle"，
+        "target": "_blank"，
         "name": "Oracle",
         "description": "Oracle",
         "sort": 7
@@ -368,129 +368,129 @@
       {
         "id": 19,
         "url": "https://github.com/ipdcode",
-        "target": "_blank",
-        "name": "京东IDC类GitHub",
-        "description": "京东IDC类GitHub",
+        "target": "_blank"，
+        "name": "京东IDC类GitHub"，
+        "description": "京东IDC类GitHub"，
         "sort": 19
-      },
+      }，
       {
-        "id": 21,
-        "url": "https://github.com/Meituan-Android",
-        "target": "_blank",
-        "name": "美团Android",
-        "description": "美团Android",
+        "id": 21，
+        "url": "https://github.com/Meituan-Android"，
+        "target": "_blank"，
+        "name": "美团Android"，
+        "description": "美团Android"，
         "sort": 21
-      },
+      }，
       {
-        "id": 23,
-        "url": "https://github.com/meituan-dianping",
-        "target": "_blank",
-        "name": "美团大众点评",
-        "description": "美团大众点评",
+        "id": 23，
+        "url": "https://github.com/meituan-dianping"，
+        "target": "_blank"，
+        "name": "美团大众点评"，
+        "description": "美团大众点评"，
         "sort": 23
-      },
+      }，
       {
-        "id": 25,
-        "url": "https://github.com/linuxdeepin/",
-        "target": "_blank",
-        "name": "深度Linux",
-        "description": "深度Linux",
+        "id": 25，
+        "url": "https://github.com/linuxdeepin/"，
+        "target": "_blank"，
+        "name": "深度Linux"，
+        "description": "深度Linux"，
         "sort": 25
-      },
+      }，
       {
-        "id": 27,
-        "url": "https://github.com/taobao",
-        "target": "_blank",
-        "name": "淘宝的GitHub",
-        "description": "淘宝的GitHub",
+        "id": 27，
+        "url": "https://github.com/taobao"，
+        "target": "_blank"，
+        "name": "淘宝的GitHub"，
+        "description": "淘宝的GitHub"，
         "sort": 27
-      },
+      }，
       {
-        "id": 28,
-        "url": "https://github.com/taobaofed",
-        "target": "_blank",
-        "name": "淘宝前端FED团队的GitHub",
-        "description": "淘宝前端FED团队的GitHub",
+        "id": 28，
+        "url": "https://github.com/taobaofed"，
+        "target": "_blank"，
+        "name": "淘宝前端FED团队的GitHub"，
+        "description": "淘宝前端FED团队的GitHub"，
         "sort": 28
-      },
+      }，
       {
-        "id": 29,
-        "url": "https://github.com/Tencent",
-        "target": "_blank",
-        "name": "腾讯的GitHub",
-        "description": "腾讯的GitHub",
+        "id": 29，
+        "url": "https://github.com/Tencent"，
+        "target": "_blank"，
+        "name": "腾讯的GitHub"，
+        "description": "腾讯的GitHub"，
         "sort": 29
-      },
+      }，
       {
-        "id": 33,
-        "url": "https://github.com/weui",
-        "target": "_blank",
-        "name": "微信前端UI的GitHub",
-        "description": "微信前端UI的GitHub",
+        "id": 33，
+        "url": "https://github.com/weui"，
+        "target": "_blank"，
+        "name": "微信前端UI的GitHub"，
+        "description": "微信前端UI的GitHub"，
         "sort": 33
-      },
+      }，
       {
-        "id": 34,
-        "url": "https://github.com/weixin",
-        "target": "_blank",
-        "name": "微信前端团队的GitHub",
-        "description": "微信前端团队的GitHub",
+        "id": 34，
+        "url": "https://github.com/weixin"，
+        "target": "_blank"，
+        "name": "微信前端团队的GitHub"，
+        "description": "微信前端团队的GitHub"，
         "sort": 34
-      },
+      }，
       {
-        "id": 36,
-        "url": "https://wereadteam.github.io/",
-        "target": "_blank",
-        "name": "微信阅读团队GitHub博客",
-        "description": "微信阅读团队GitHub博客",
+        "id": 36，
+        "url": "https://wereadteam.github.io/"，
+        "target": "_blank"，
+        "name": "微信阅读团队GitHub博客"，
+        "description": "微信阅读团队GitHub博客"，
         "sort": 36
-      },
+      }，
       {
-        "id": 37,
-        "url": "https://github.com/wepayui",
-        "target": "_blank",
-        "name": "微信支付UI团队",
-        "description": "微信支付UI团队",
+        "id": 37，
+        "url": "https://github.com/wepayui"，
+        "target": "_blank"，
+        "name": "微信支付UI团队"，
+        "description": "微信支付UI团队"，
         "sort": 37
-      },
+      }，
       {
-        "id": 39,
-        "url": "https://github.com/wechatui",
-        "target": "_blank",
-        "name": "疑似WebChatUI的GitHub",
-        "description": "疑似WebChatUI的GitHub",
+        "id": 39，
+        "url": "https://github.com/wechatui"，
+        "target": "_blank"，
+        "name": "疑似WebChatUI的GitHub"，
+        "description": "疑似WebChatUI的GitHub"，
         "sort": 39
-      },
+      }，
       {
-        "id": 43,
-        "url": "https://github.com/dangdangdotcom",
-        "target": "_blank",
-        "name": "当当",
-        "description": "当当",
+        "id": 43，
+        "url": "https://github.com/dangdangdotcom"，
+        "target": "_blank"，
+        "name": "当当"，
+        "description": "当当"，
         "sort": 43
       }
     ]
-  },
+  }，
   {
-    "id": 3,
-    "type": "IT杂志",
-    "sort": 3,
-    "description": "IT杂志",
+    "id": 3，
+    "type": "IT杂志"，
+    "sort": 3，
+    "description": "IT杂志"，
     "items": [
       {
-        "id": 1,
-        "url": "http://www.infoq.com/cn/minibooks",
-        "target": "_blank",
-        "name": "infoq迷你书",
-        "description": "infoq迷你书",
+        "id": 1，
+        "url": "http://www.infoq.com/cn/minibooks"，
+        "target": "_blank"，
+        "name": "infoq迷你书"，
+        "description": "infoq迷你书"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "http://dingyue.programmer.com.cn/",
-        "target": "_blank",
-        "name": "程序员杂志",
-        "description": "程序员杂志",
+        "id": 2，
+        "url": "http://dingyue.programmer.com.cn/"，
+        "target": "_blank"，
+        "name": "程序员杂志"，
+        "description": "程序员杂志"，
         "sort": 2
       }
     ]
@@ -640,80 +640,80 @@
     ]
   },
   {
-    "id": 5,
-    "type": "Linux各类资源",
-    "sort": 5,
-    "description": "Linux各类资源",
+    "id": 5，
+    "type": "Linux各类资源"，
+    "sort": 5，
+    "description": "Linux各类资源"，
     "items": [
       {
-        "id": 1,
-        "url": "https://www.linuxfoundation.org/",
-        "target": "_blank",
-        "name": "Linux基金会",
-        "description": "Linux基金会",
+        "id": 1，
+        "url": "https://www.linuxfoundation.org/"，
+        "target": "_blank"，
+        "name": "Linux基金会"，
+        "description": "Linux基金会"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "https://www.kernel.org/",
-        "target": "_blank",
-        "name": "Linux Kernel",
-        "description": "Linux Kernel",
+        "id": 2，
+        "url": "https://www.kernel.org/"，
+        "target": "_blank"，
+        "name": "Linux Kernel"，
+        "description": "Linux Kernel"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "https://www.archlinux.org/",
-        "target": "_blank",
-        "name": "Arch Linux",
-        "description": "Arch Linux",
+        "id": 3，
+        "url": "https://www.archlinux.org/"，
+        "target": "_blank"，
+        "name": "Arch Linux"，
+        "description": "Arch Linux"，
         "sort": 3
-      },
+      }，
       {
-        "id": 4,
-        "url": "https://askubuntu.com/",
-        "target": "_blank",
-        "name": "AskUbuntu",
-        "description": "AskUbuntu",
+        "id": 4，
+        "url": "https://askubuntu.com/"，
+        "target": "_blank"，
+        "name": "AskUbuntu"，
+        "description": "AskUbuntu"，
         "sort": 4
-      },
+      }，
       {
-        "id": 5,
-        "url": "http://linux.chinaunix.net/",
-        "target": "_blank",
-        "name": "ChinaUnix",
-        "description": "ChinaUnix",
+        "id": 5，
+        "url": "http://linux.chinaunix.net/"，
+        "target": "_blank"，
+        "name": "ChinaUnix"，
+        "description": "ChinaUnix"，
         "sort": 5
-      },
+      }，
       {
-        "id": 6,
-        "url": "http://www.debianadmin.com/",
-        "target": "_blank",
-        "name": "Debian Admin",
-        "description": "Debian Admin",
+        "id": 6，
+        "url": "http://www.debianadmin.com/"，
+        "target": "_blank"，
+        "name": "Debian Admin"，
+        "description": "Debian Admin"，
         "sort": 6
-      },
+      }，
       {
-        "id": 7,
-        "url": "https://debian-administration.org/",
-        "target": "_blank",
-        "name": "Debian Administration",
-        "description": "Debian Administration",
+        "id": 7，
+        "url": "https://debian-administration.org/"，
+        "target": "_blank"，
+        "name": "Debian Administration"，
+        "description": "Debian Administration"，
         "sort": 7
-      },
+      }，
       {
-        "id": 8,
-        "url": "http://elinux.org/",
-        "target": "_blank",
-        "name": "eLinux",
-        "description": "eLinux",
+        "id": 8，
+        "url": "http://elinux.org/"，
+        "target": "_blank"，
+        "name": "eLinux"，
+        "description": "eLinux"，
         "sort": 8
-      },
+      }，
       {
-        "id": 9,
-        "url": "https://www.freebsd.org/",
-        "target": "_blank",
-        "name": "FreeBSD",
+        "id": 9，
+        "url": "https://www.freebsd.org/"，
+        "target": "_blank"，
+        "name": "FreeBSD"，
         "description": "FreeBSD",
         "sort": 9
       },
@@ -1996,79 +1996,79 @@
         "name": "GitHub blog",
         "description": "GitHub blog",
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "http://blogs.msdn.com/",
-        "target": "_blank",
-        "name": "MSDN Blog",
-        "description": "MSDN Blog",
+        "id": 2，
+        "url": "http://blogs.msdn.com/"，
+        "target": "_blank"，
+        "name": "MSDN Blog"，
+        "description": "MSDN Blog"，
         "sort": 2
       }
     ]
-  },
+  }，
   {
-    "id": 17,
-    "type": "国外技术社区",
-    "sort": 17,
-    "description": "国外技术社区",
+    "id": 17，
+    "type": "国外技术社区"，
+    "sort": 17，
+    "description": "国外技术社区"，
     "items": [
       {
-        "id": 1,
-        "url": "https://social.msdn.microsoft.com/Forums/",
-        "target": "_blank",
-        "name": "msdn",
-        "description": "msdn",
+        "id": 1，
+        "url": "https://social.msdn.microsoft.com/Forums/"，
+        "target": "_blank"，
+        "name": "msdn"，
+        "description": "msdn"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "http://stackoverflow.com/",
-        "target": "_blank",
-        "name": "stackoverflow",
-        "description": "stackoverflow",
+        "id": 2，
+        "url": "http://stackoverflow.com/"，
+        "target": "_blank"，
+        "name": "stackoverflow"，
+        "description": "stackoverflow"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "https://developer.apple.com/",
-        "target": "_blank",
-        "name": "苹果开发者中心",
-        "description": "苹果开发者中心",
+        "id": 3，
+        "url": "https://developer.apple.com/"，
+        "target": "_blank"，
+        "name": "苹果开发者中心"，
+        "description": "苹果开发者中心"，
         "sort": 3
       }
     ]
-  },
+  }，
   {
-    "id": 18,
-    "type": "国外开源代码网站",
-    "sort": 18,
-    "description": "国外开源代码网站",
+    "id": 18，
+    "type": "国外开源代码网站"，
+    "sort": 18，
+    "description": "国外开源代码网站"，
     "items": [
       {
-        "id": 1,
-        "url": "http://www.codeplex.com/",
-        "target": "_blank",
-        "name": "CodePlex",
-        "description": "CodePlex",
+        "id": 1，
+        "url": "http://www.codeplex.com/"，
+        "target": "_blank"，
+        "name": "CodePlex"，
+        "description": "CodePlex"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "http://www.codeproject.com/",
-        "target": "_blank",
-        "name": "CodeProject",
-        "description": "CodeProject",
+        "id": 2，
+        "url": "http://www.codeproject.com/"，
+        "target": "_blank"，
+        "name": "CodeProject"，
+        "description": "CodeProject"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "http://www.codersource.net/",
-        "target": "_blank",
-        "name": "CoderSource",
-        "description": "CoderSource",
+        "id": 3，
+        "url": "http://www.codersource.net/"，
+        "target": "_blank"，
+        "name": "CoderSource"，
+        "description": "CoderSource"，
         "sort": 3
-      },
+      }，
       {
         "id": 4,
         "url": "https://github.com/",
