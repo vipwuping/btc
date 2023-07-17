@@ -231,10 +231,10 @@
 	  },
 	  {
         "id": 29,
-        "url": "https://arbiscan.io/tokenapprovalchecker",
+        "url": "https://bard.google.com/",
         "target": "_blank",
-        "name": "演示",
-        "description": "演示",
+        "name": "谷歌AI",
+        "description": "谷歌AI",
         "sort": 29
       },
       {
@@ -242,7 +242,7 @@
         "url": "https://defillama.com/",
         "target": "_blank",
         "name": "演示效果",
-        "description": "交易所效果",
+        "description": "演示效果",
         "sort": 30
       }
     ]
@@ -2440,49 +2440,49 @@
       {
         "id": 2,
         "url": "http://rednaxelafx.iteye.com/",
-        "target": "_blank",
-        "name": "R大（Java）",
-        "description": "R大（Java）",
+        "target": "_blank"，
+        "name": "R大（Java）"，
+        "description": "R大（Java）"，
         "sort": 2
-      },
+      }，
       {
-        "id": 3,
-        "url": "https://blog.liuts.com/",
-        "target": "_blank",
-        "name": "刘天斯（运维）",
-        "description": "刘天斯（运维）",
+        "id": 3，
+        "url": "https://blog.liuts.com/"，
+        "target": "_blank"，
+        "name": "刘天斯（运维）"，
+        "description": "刘天斯（运维）"，
         "sort": 3
-      },
+      }，
       {
-        "id": 4,
-        "url": "http://ryanjbaxter.com/",
-        "target": "_blank",
-        "name": "Spring Cloud作者（Java）",
-        "description": "Spring Cloud作者（Java）",
+        "id": 4，
+        "url": "http://ryanjbaxter.com/"，
+        "target": "_blank"，
+        "name": "Spring Cloud作者（Java）"，
+        "description": "Spring Cloud作者（Java）"，
         "sort": 4
       }
     ]
-  },
+  }，
   {
-    "id": 26,
-    "type": "运维资源",
-    "sort": 26,
-    "description": "运维资源",
+    "id": 26，
+    "type": "运维资源"，
+    "sort": 26，
+    "description": "运维资源"，
     "items": [
       {
-        "id": 1,
-        "url": "https://www.centos.bz/",
-        "target": "_blank",
-        "name": "Linux运维日志",
-        "description": "Linux运维日志",
+        "id": 1，
+        "url": "https://www.centos.bz/"，
+        "target": "_blank"，
+        "name": "Linux运维日志"，
+        "description": "Linux运维日志"，
         "sort": 1
-      },
+      }，
       {
-        "id": 2,
-        "url": "http://www.21yunwei.com/",
-        "target": "_blank",
-        "name": "21运维",
-        "description": "21运维",
+        "id": 2，
+        "url": "http://www.21yunwei.com/"，
+        "target": "_blank"，
+        "name": "21运维"，
+        "description": "21运维"，
         "sort": 2
       }
     ]
