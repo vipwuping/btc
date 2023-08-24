@@ -239,10 +239,10 @@
       },
       {
         "id": 30,
-        "url": "https://defillama.com/",
+        "url": "https://www.oklink.com/cn/chaintelligence/compliance-tools",
         "target": "_blank",
-        "name": "演示效果",
-        "description": "演示效果",
+        "name": "oklink链上查询",
+        "description": "oklink",
         "sort": 30
       }
     ]
