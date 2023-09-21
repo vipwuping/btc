@@ -271,42 +271,42 @@
       },
       {
         "id": 3,
-        "url": "https://github.com/facebook",
+        "url": "https://iphub.info/",
         "target": "_blank",
-        "name": "facebook",
-        "description": "facebook",
+        "name": "iphub 住宅IP检测",
+        "description": "iphub 住宅IP检测",
         "sort": 3
       },
       {
         "id": 4,
-        "url": "https://github.com/Homebrew",
+        "url": "https://www.ip2location.com/demo/",
         "target": "_blank",
-        "name": "iOS包管理软件团队的GitHub",
-        "description": "iOS包管理软件团队的GitHub",
+        "name": "住宅ISP IP检测",
+        "description": "住宅ISP IP检测",
         "sort": 4
       },
       {
         "id": 5,
-        "url": "https://github.com/javaee/",
+        "url": "https://www.ip123.in/#fraud_check",
         "target": "_blank",
-        "name": "JavaEE",
-        "description": "JavaEE",
+        "name": "IP权重风险检测",
+        "description": "IP权重风险检测",
         "sort": 5
       },
       {
         "id": 6,
-        "url": "https://github.com/opserver",
+        "url": "https://www.maxmind.com/en/geoip-demo",
         "target": "_blank",
-        "name": "opserver的GitHub",
-        "description": "opserver的GitHub",
+        "name": "GeoIP2 City Plus IP检测",
+        "description": "GeoIP2 City Plus IP检测",
         "sort": 6
       },
       {
         "id": 7,
-        "url": "https://github.com/oracle",
+        "url": "https://ipw.cn/ipv6webcheck/?site=ipw.cn",
         "target": "_blank",
-        "name": "Oracle",
-        "description": "Oracle",
+        "name": "IPV6地址检测",
+        "description": "IPV6地址检测",
         "sort": 7
       },
       {
