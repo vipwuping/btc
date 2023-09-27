@@ -311,18 +311,18 @@
       },
       {
         "id": 8,
-        "url": "https://github.com/qemu",
+        "url": "https://lwebapp.com/zh/ip-batch",
         "target": "_blank",
-        "name": "QEMU",
-        "description": "QEMU",
+        "name": "批量查询IP",
+        "description": "批量查询IP",
         "sort": 8
       },
       {
         "id": 9,
-        "url": "https://github.com/spring-projects",
+        "url": "https://ipchaxun.com/",
         "target": "_blank",
-        "name": "Spring",
-        "description": "Spring",
+        "name": "IP查域名",
+        "description": "IP查域名",
         "sort": 9
       },
       {
