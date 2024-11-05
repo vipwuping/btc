@@ -343,26 +343,26 @@
       },
       {
         "id": 14,
-        "url": "https://github.com/YYOpenSource",
+        "url": "https://github.com/mozilla-mobile/firefox-android/releases",
         "target": "_blank",
-        "name": "YYOpenSource",
-        "description": "YYOpenSource",
+        "name": "火狐浏览器",
+        "description": "火狐浏览器",
         "sort": 14
       },
       {
         "id": 17,
-        "url": "https://github.com/fex-team",
+        "url": "tg://setlanguage?lang=zhcncc",
         "target": "_blank",
-        "name": "百度前端fex-team",
-        "description": "百度前端fex-team",
+        "name": "电报TG中文汉化",
+        "description": "电报TG中文汉化",
         "sort": 17
       },
       {
         "id": 18,
-        "url": "https://github.com/easemob",
+        "url": "https://github.com/KaringX/karing/releases",
         "target": "_blank",
-        "name": "环信的GitHub",
-        "description": "环信的GitHub",
+        "name": "KaringX加速器",
+        "description": "KaringX加速器",
         "sort": 18
       },
       {
