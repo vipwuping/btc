@@ -335,10 +335,10 @@
       },
       {
         "id": 12,
-        "url": "https://github.com/twitter",
+        "url": "https://test.nju.edu.cn/",
         "target": "_blank",
-        "name": "twitter的GitHub",
-        "description": "twitter的GitHub",
+        "name": "南京大学测速站",
+        "description": "南京大学测速站",
         "sort": 12
       },
       {
