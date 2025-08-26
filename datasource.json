@@ -495,10 +495,10 @@
       },
       {
         "id": 12,
-        "url": "http://www.guokr.com/",
+        "url": "https://www.7-zip.org/a/7z2501.exe",
         "target": "_blank",
-        "name": "果壳",
-        "description": "果壳",
+        "name": "7z压缩_32位",
+        "description": "7z压缩_32位",
         "sort": 12
       }
     ]
