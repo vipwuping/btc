@@ -90,7 +90,7 @@
         "url": "https://www.coinglass.com/zh/pro/i/MA",
         "target": "_blank",
         "name": "均线乘数顶底指标",
-        "description": "两年MA均线乘数顶底指标",
+        "description": "coinglass两年MA均线乘数顶底指标",
         "sort": 11
       },
 	  {
@@ -135,10 +135,10 @@
 	  },
 	  {
         "id": 17,
-        "url": "https://blockchainwhispers.com/bitmex-position-calculator",
+        "url": "https://app.nansen.ai/",
         "target": "_blank",
-        "name": "合约多空持仓比",
-        "description": "合约多空持仓比",
+        "name": "链上聪明钱扫苗",
+        "description": "链上聪明钱扫苗",
         "sort": 17
       },
       {
@@ -183,10 +183,10 @@
 	  },
 	  {
         "id": 23,
-        "url": "https://tools.defieye.io/bridge/",
+        "url": "https://approval.tptool.pro/",
         "target": "_blank",
-        "name": "跨链桥手续费计算",
-        "description": "跨链桥手续费计算",
+        "name": "链上授权查询2",
+        "description": "链上授权查询2",
         "sort": 23
       },
 	  {
@@ -249,9 +249,9 @@
   },
   {
     "id": 2,
-    "type": "GitHub组织",
+    "type": "IP地址",
     "sort": 2,
-    "description": "GitHub组织",
+    "description": "IP地址",
     "items": [
       {
         "id": 1,
@@ -367,131 +367,107 @@
       },
       {
         "id": 19,
-        "url": "https://github.com/ipdcode",
+        "url": "https://www.speedtest.net/zh-Hans",
         "target": "_blank",
-        "name": "京东IDC类GitHub",
-        "description": "京东IDC类GitHub",
+        "name": "speedtest国际测速",
+        "description": "speedtest国际测速",
         "sort": 19
       },
       {
+        "id": 20,
+        "url": "https://www.speedtest.cn",
+        "target": "_blank",
+        "name": "speedtest国内测速",
+        "description": "speedtest国内测速",
+        "sort": 20
+      },
+      {
         "id": 21,
-        "url": "https://github.com/Meituan-Android",
-        "target": "_blank",
-        "name": "美团Android",
-        "description": "美团Android",
-        "sort": 21
-      },
-      {
-        "id": 23,
-        "url": "https://github.com/meituan-dianping",
-        "target": "_blank",
-        "name": "美团大众点评",
-        "description": "美团大众点评",
-        "sort": 23
-      },
-      {
-        "id": 25,
-        "url": "https://github.com/linuxdeepin/",
-        "target": "_blank",
-        "name": "深度Linux",
-        "description": "深度Linux",
-        "sort": 25
-      },
-      {
-        "id": 27,
-        "url": "https://github.com/taobao",
-        "target": "_blank",
-        "name": "淘宝的GitHub",
-        "description": "淘宝的GitHub",
-        "sort": 27
-      },
-      {
-        "id": 28,
-        "url": "https://github.com/taobaofed",
-        "target": "_blank",
-        "name": "淘宝前端FED团队的GitHub",
-        "description": "淘宝前端FED团队的GitHub",
-        "sort": 28
-      },
-      {
-        "id": 29,
-        "url": "https://github.com/Tencent",
-        "target": "_blank",
-        "name": "腾讯的GitHub",
-        "description": "腾讯的GitHub",
-        "sort": 29
-      },
-      {
-        "id": 33,
-        "url": "https://github.com/weui",
-        "target": "_blank",
-        "name": "微信前端UI的GitHub",
-        "description": "微信前端UI的GitHub",
-        "sort": 33
-      },
-      {
-        "id": 34,
-        "url": "https://github.com/weixin",
-        "target": "_blank",
-        "name": "微信前端团队的GitHub",
-        "description": "微信前端团队的GitHub",
-        "sort": 34
-      },
-      {
-        "id": 36,
-        "url": "https://wereadteam.github.io/",
-        "target": "_blank",
-        "name": "微信阅读团队GitHub博客",
-        "description": "微信阅读团队GitHub博客",
-        "sort": 36
-      },
-      {
-        "id": 37,
-        "url": "https://github.com/wepayui",
-        "target": "_blank",
-        "name": "微信支付UI团队",
-        "description": "微信支付UI团队",
-        "sort": 37
-      },
-      {
-        "id": 39,
         "url": "https://github.com/wechatui",
         "target": "_blank",
         "name": "疑似WebChatUI的GitHub",
         "description": "疑似WebChatUI的GitHub",
-        "sort": 39
-      },
-      {
-        "id": 43,
-        "url": "https://github.com/dangdangdotcom",
-        "target": "_blank",
-        "name": "当当",
-        "description": "当当",
-        "sort": 43
+        "sort": 21
       }
     ]
   },
   {
     "id": 3,
-    "type": "IT杂志",
+    "type": "短链接",
     "sort": 3,
-    "description": "IT杂志",
+    "description": "短链接",
     "items": [
       {
         "id": 1,
-        "url": "http://www.infoq.com/cn/minibooks",
+        "url": "http://aaok.vip/tp",
         "target": "_blank",
-        "name": "infoq迷你书",
-        "description": "infoq迷你书",
+        "name": "TP钱包默认64位",
+        "description": "TP钱包默认64位",
         "sort": 1
       },
       {
         "id": 2,
-        "url": "http://dingyue.programmer.com.cn/",
+        "url": "http://aaok.vip/tp32",
         "target": "_blank",
-        "name": "程序员杂志",
-        "description": "程序员杂志",
+        "name": "TP钱包32位",
+        "description": "TP钱包32位",
         "sort": 2
+      },
+      {
+        "id": 3,
+        "url": "https://aaok.vip/ka",
+        "target": "_blank",
+        "name": "KaringX安卓加WIN64位",
+        "description": "KaringX安卓加WIN64位",
+        "sort": 3
+      },
+      {
+        "id": 4,
+        "url": "https://aaok.vip/one",
+        "target": "_blank",
+        "name": "onekey钱包",
+        "description": "onekey钱包",
+        "sort": 4
+      },
+      {
+        "id": 5,
+        "url": "https://aaok.vip/tgcn",
+        "target": "_blank",
+        "name": "TG转中文汉化",
+        "description": "TG转中文汉化",
+        "sort": 5
+      },
+      {
+        "id": 6,
+        "url": "http://aaok.vip/bn",
+        "target": "_blank",
+        "name": "币安APP下载",
+        "description": "币安APP下载",
+        "sort": 6
+      },
+      {
+        "id": 7,
+        "url": "http://aaok.vip/okx",
+        "target": "_blank",
+        "name": "欧易手机钱包下载",
+        "description": "欧易手机钱包下载",
+        "sort": 7
+      },
+      {
+        "id": 8,
+        "url": "http://aaok.vip/tgxx",
+        "target": "_blank",
+        "name": "TG-Nekogram安卓版",
+        "description": "TG-Nekogram安卓版",
+        "sort": 8
+      },
+      {
+        "id": 9,
+        "url": "http://aaok.vip/tga",
+        "target": "_blank",
+        "name": "TG安卓官方版",
+        "description": "TG安卓官方版",
+        "sort": 9
       }
     ]
   },
