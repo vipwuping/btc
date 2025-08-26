@@ -385,16 +385,16 @@
         "id": 17,
         "url": "https://github.com/2dust/v2rayN/releases",
         "target": "_blank",
-        "name": "v2rayn_github下载",
-        "description": "v2rayn_github下载",
+        "name": "v2rayn_github下载64位",
+        "description": "v2rayn_github下载64位",
         "sort": 17
       },
       {
         "id": 18,
-        "url": "https://github.com/wechatui",
+        "url": "https://v2rayn.org/v2rayn-releases/",
         "target": "_blank",
-        "name": "v2rayn_win32-64版",
-        "description": "v2rayn_win32-64版",
+        "name": "v2rayn_win7_32位版",
+        "description": "v2rayn_win7_32位版",
         "sort": 18
       }
     ]
@@ -476,21 +476,45 @@
         "name": "TG安卓官方版",
         "description": "TG安卓官方版",
         "sort": 9
+      },
+      {
+        "id": 10,
+        "url": "https://aaok.vip/v2rayn32",
+        "target": "_blank",
+        "name": "v2rayn_32位win7版",
+        "description": "v2rayn_32位win7版直接下载",
+        "sort": 10
+      },
+      {
+        "id": 11,
+        "url": "https://aaok.vip/v2rayn64",
+        "target": "_blank",
+        "name": "v2rayn_64位win10版",
+        "description": "v2rayn_64位win10版直接下载",
+        "sort": 11
+      },
+      {
+        "id": 12,
+        "url": "http://www.guokr.com/",
+        "target": "_blank",
+        "name": "果壳",
+        "description": "果壳",
+        "sort": 12
       }
     ]
   },
   {
     "id": 4,
-    "type": "IT资讯类网站",
+    "type": "AI资讯类网站",
     "sort": 4,
-    "description": "IT资讯类网站",
+    "description": "AI资讯类网站",
     "items": [
       {
         "id": 1,
-        "url": "http://36kr.com/",
+        "url": "https://grok.dairoot.cn/",
         "target": "_blank",
-        "name": "36氪",
-        "description": "36氪",
+        "name": "grok_AI免费用",
+        "description": "grok_AI免费用",
         "sort": 1
       },
       {
@@ -620,6 +644,14 @@
         "name": "外刊IT",
         "description": "外刊IT",
         "sort": 17
+      },
+      {
+        "id": 18,
+        "url": "http://weixin.sogou.com/",
+        "target": "_blank",
+        "name": "搜狗微信公众平台搜索",
+        "description": "搜狗微信公众平台搜索",
+        "sort": 18
       }
     ]
   },
