@@ -23,10 +23,10 @@
       },
       {
         "id": 3,
-        "url": "https://www.hecoinfo.com/en-us/home",
+        "url": "https://app.chainalert.me",
         "target": "_blank",
-        "name": "火币链查询",
-        "description": "Hceo链查询",
+        "name": "币链快报",
+        "description": "币链快报",
         "sort": 3
       },
       {
@@ -138,7 +138,7 @@
         "url": "https://app.nansen.ai/",
         "target": "_blank",
         "name": "链上聪明钱扫苗",
-        "description": "链上聪明钱扫苗",
+        "description": "链上聪明钱AI扫苗",
         "sort": 17
       },
       {
@@ -359,10 +359,10 @@
       },
       {
         "id": 14,
-        "url": "https://github.com/KaringX/karing/releases",
+        "url": "https://aaok.vip/hr",
         "target": "_blank",
-        "name": "KaringX加速器",
-        "description": "KaringX加速器",
+        "name": "火绒安全杀毒软件",
+        "description": "火绒安全杀毒软件",
         "sort": 14
       },
       {
@@ -383,10 +383,10 @@
       },
       {
         "id": 17,
-        "url": "https://github.com/2dust/v2rayN/releases",
+        "url": "https://github.com/2dust/v2rayN/releases/latest",
         "target": "_blank",
-        "name": "v2rayn_github下载64位",
-        "description": "v2rayn_github下载64位",
+        "name": "v2rayn_github下载64位稳定版",
+        "description": "v2rayn_github下载手机+电脑64位稳定版",
         "sort": 17
       },
       {
@@ -426,7 +426,7 @@
         "url": "https://aaok.vip/ka",
         "target": "_blank",
         "name": "KaringX安卓加WIN64位",
-        "description": "KaringX安卓加WIN64位",
+        "description": "KaringX加速度安卓+WIN64位",
         "sort": 3
       },
       {
@@ -490,7 +490,7 @@
         "url": "https://aaok.vip/v2rayn64",
         "target": "_blank",
         "name": "v2rayn_64位win10版",
-        "description": "v2rayn_64位win10版直接下载",
+        "description": "v2rayn_64位win10稳定版直接下载",
         "sort": 11
       },
       {
